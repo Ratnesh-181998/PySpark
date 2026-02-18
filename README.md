@@ -1,6 +1,6 @@
 # PySpark
 
-## 📌 PySpark – Complete Data Engineering & Big Data Interview Guide
+## PySpark – Complete Data Engineering & Big Data Interview Guide
 - A structured reference covering PySpark fundamentals, DataFrame operations, schema handling, joins, complex data types, and UDFs for scalable data processing.
 
 ## Pyspark-1
