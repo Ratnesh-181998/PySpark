@@ -63,3 +63,15 @@
 - Vectorized processing with @pandas_udf
 - A complete PySpark reference for Data Engineers, Big Data Developers, and Spark interview preparation.
 
+---
+
+# For those of you who worked on ETL, Data Analysis, Mainframe ETL, Snowflake, PL/SQL, Business Intelligence, Reporting, Data Warehousing,
+## [Spark isn't that difficult to comprehend!]()
+
+<img width="1079" height="881" alt="image" src="https://github.com/user-attachments/assets/02cf688e-6fe5-4e95-b2ab-c110de78d9bc" />
+
+
+---
+
+
+
