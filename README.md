@@ -4,11 +4,12 @@
 </div>
 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## PySpark – Complete Data Engineering & Big Data Interview Guide
 - A structured reference covering PySpark fundamentals, DataFrame operations, schema handling, joins, complex data types, and UDFs for scalable data processing.
 
-## Pyspark-1
+## Pyspark
 
 - What this document covers:
   
@@ -79,4 +80,4 @@
 ---
 
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
