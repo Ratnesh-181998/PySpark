@@ -5,7 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=PySpark%20Data%20Engineering%20BigData&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## PySpark – Complete Data Engineering & Big Data Interview Guide
