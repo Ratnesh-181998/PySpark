@@ -1,4 +1,9 @@
-# PySpark
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text= PySpark%20Data%20Engineering%20BigData&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+
 
 ## PySpark – Complete Data Engineering & Big Data Interview Guide
 - A structured reference covering PySpark fundamentals, DataFrame operations, schema handling, joins, complex data types, and UDFs for scalable data processing.
