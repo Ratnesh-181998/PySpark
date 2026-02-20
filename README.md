@@ -74,7 +74,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # For those of you who worked on ETL, Data Analysis, Mainframe ETL, Snowflake, PL/SQL, Business Intelligence, Reporting, Data Warehousing,
-## [Spark isn't that difficult to comprehend!]()
+## [Spark isn't that difficult to comprehend!](https://github.com/Ratnesh-181998/PySpark/blob/main/100%2B%20PAGES%20OF%20APACHE%20SPARK%20NOTES.pdf)
 
 <img width="1079" height="881" alt="image" src="https://github.com/user-attachments/assets/02cf688e-6fe5-4e95-b2ab-c110de78d9bc" />
 
