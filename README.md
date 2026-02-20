@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text= PySpark%20Data%20Engineering%20BigData&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=PySpark%20Data%20Engineering%20BigData&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 
