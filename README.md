@@ -92,6 +92,21 @@
 
 ---
 
+# 𝗦𝗤𝗟 ⇄ 𝗣𝘆𝗦𝗽𝗮𝗿𝗸 𝗤𝘂𝗶𝗰𝗸 𝗖𝗵𝗲𝗮𝘁 𝗦𝗵𝗲𝗲𝘁
+
+<img width="1083" height="607" alt="image" src="https://github.com/user-attachments/assets/d79e123d-8b98-44c9-98b6-9823a49fa7a2" />
+<img width="1016" height="1041" alt="image" src="https://github.com/user-attachments/assets/5c2910dc-5408-4686-b736-314d96ad70ae" />
+<img width="1022" height="1004" alt="image" src="https://github.com/user-attachments/assets/9ed5b3b9-1641-458e-89bc-812c791ac79f" />
+<img width="1023" height="1042" alt="image" src="https://github.com/user-attachments/assets/2b7552fb-ed6a-459a-81a5-7f55a6907ad4" />
+<img width="1047" height="1073" alt="image" src="https://github.com/user-attachments/assets/26eac516-4dae-4e10-a982-45924cb93778" />
+<img width="1055" height="1019" alt="image" src="https://github.com/user-attachments/assets/0a008f24-92c0-44af-b15f-173b85981c90" />
+<img width="1054" height="884" alt="image" src="https://github.com/user-attachments/assets/204c6831-d929-46a2-850f-2939a8c79f83" />
+<img width="1031" height="1036" alt="image" src="https://github.com/user-attachments/assets/22b12ce5-a8a7-4adb-97f4-253d7fa06632" />
+<img width="1031" height="927" alt="image" src="https://github.com/user-attachments/assets/61756d4a-ceea-499e-9671-973b27fd17ac" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # 📞 **CONTACT & NETWORKING** 📞
