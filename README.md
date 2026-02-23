@@ -80,6 +80,18 @@
 
 ---
 
+#  [𝗔𝗽𝗮𝗰𝗵𝗲𝗦𝗽𝗮𝗿𝗸 𝗦𝗶𝗺𝗽𝗹𝗶𝗳𝗶𝗲𝗱 — 𝗢𝗻𝗲-𝗦𝘁𝗼𝗽 𝗞𝗲𝘆𝘄𝗼𝗿𝗱𝘀 & 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 𝗖𝗵𝗲𝗮𝘁 𝗦𝗵𝗲𝗲𝘁!](https://github.com/Ratnesh-181998/PySpark/blob/main/Apache%20Kafka%20is%20an%20open-source%2C%20distributed%20streaming%20platform.pdf)
+
+<img width="700" height="921" alt="image" src="https://github.com/user-attachments/assets/6cb1ea16-a83c-4bc2-bf99-32b61105313e" />
+<img width="730" height="914" alt="image" src="https://github.com/user-attachments/assets/fa1498da-a95f-4f8b-a710-eaf6a8d87aa3" />
+<img width="685" height="930" alt="image" src="https://github.com/user-attachments/assets/a23a433b-763e-47f3-a400-2e7479d7291d" />
+<img width="688" height="935" alt="image" src="https://github.com/user-attachments/assets/04c85327-9f2e-4400-9571-4782236ec350" />
+<img width="701" height="900" alt="image" src="https://github.com/user-attachments/assets/d5f3e408-aaa8-4094-a6c5-1f5484cf557a" />
+<img width="689" height="697" alt="image" src="https://github.com/user-attachments/assets/2358a021-e117-4dab-885e-92ed48c745f5" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # 📞 **CONTACT & NETWORKING** 📞
