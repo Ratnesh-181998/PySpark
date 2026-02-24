@@ -106,7 +106,7 @@
 
 ---
 
-# [🔥 Understanding 𝗦𝗽𝗮𝗿𝗸 𝗠𝗲𝗺𝗼𝗿𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 (Simple Version)]()
+# [🔥 Understanding 𝗦𝗽𝗮𝗿𝗸 𝗠𝗲𝗺𝗼𝗿𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 (Simple Version)](https://github.com/Ratnesh-181998/PySpark/blob/main/Understanding%20Spark%20Memory%20Management.pdf)
 
 <img width="1110" height="1136" alt="image" src="https://github.com/user-attachments/assets/6c0fc2b0-d5f3-4df4-936e-674f572fde8d" />
 
