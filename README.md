@@ -113,7 +113,7 @@
 
 ---
 
-# [🚀 Strengthening my Spark & PySpark fundamentals]()
+# [🚀 Strengthening my Spark & PySpark fundamentals](https://github.com/Ratnesh-181998/PySpark/blob/main/Spark%20%26%20PySpark%20fundamentals..pdf)
 <img width="1065" height="443" alt="image" src="https://github.com/user-attachments/assets/b98670c7-0e7c-4b59-83c4-fd1cef901df2" />
 
 
