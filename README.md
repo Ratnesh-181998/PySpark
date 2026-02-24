@@ -104,6 +104,12 @@
 <img width="1031" height="1036" alt="image" src="https://github.com/user-attachments/assets/22b12ce5-a8a7-4adb-97f4-253d7fa06632" />
 <img width="1031" height="927" alt="image" src="https://github.com/user-attachments/assets/61756d4a-ceea-499e-9671-973b27fd17ac" />
 
+---
+
+# [🔥 Understanding 𝗦𝗽𝗮𝗿𝗸 𝗠𝗲𝗺𝗼𝗿𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 (Simple Version)]()
+
+<img width="1110" height="1136" alt="image" src="https://github.com/user-attachments/assets/6c0fc2b0-d5f3-4df4-936e-674f572fde8d" />
+
 
 ---
 
