@@ -113,6 +113,12 @@
 
 ---
 
+# [🚀 Strengthening my Spark & PySpark fundamentals]()
+<img width="1065" height="443" alt="image" src="https://github.com/user-attachments/assets/b98670c7-0e7c-4b59-83c4-fd1cef901df2" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # 📞 **CONTACT & NETWORKING** 📞
