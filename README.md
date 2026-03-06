@@ -7,6 +7,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
+
+---
+
+# Data Value Chain looks:
+
+<img width="819" height="700" alt="image" src="https://github.com/user-attachments/assets/46410591-35fa-4595-9c73-3fc351e64ac6" />
+<img width="1022" height="958" alt="image" src="https://github.com/user-attachments/assets/0c2bd2bf-62f3-4220-9d8e-88b3fd64c58d" />
+
+---
+
+
 ## PySpark – Complete Data Engineering & Big Data Interview Guide
 - A structured reference covering PySpark fundamentals, DataFrame operations, schema handling, joins, complex data types, and UDFs for scalable data processing.
 
